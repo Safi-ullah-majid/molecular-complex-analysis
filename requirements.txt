@@ -1,1 +1,9 @@
-"torch\nfairchem\ngemnet" 
+torch>=1.9.0
+torchvision>=0.10.0
+torchaudio>=0.9.0
+ase>=3.22.0
+numpy>=1.21.0
+fairchem-core>=1.0.0
+gemnet-pytorch>=1.0.0
+matplotlib>=3.5.0
+scipy>=1.7.0
