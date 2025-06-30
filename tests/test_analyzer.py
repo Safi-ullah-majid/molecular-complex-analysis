@@ -1,1 +1,10 @@
-"import unittest\n\nclass TestAnalyzer(unittest.TestCase):\n    def test_sample(self):\n        self.assertEqual(1, 1)" 
+import unittest
+from molecular_analyzer import MolecularComplexAnalyzer
+
+class TestAnalyzer(unittest.TestCase):
+    def test_initialization(self):
+        analyzer = MolecularComplexAnalyzer()
+        self.assertIsNotNone(analyzer)
+
+if __name__ == '__main__':
+    unittest.main()
