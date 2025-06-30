@@ -1,1 +1,7 @@
-"# Installation Guide\n\n## Steps\n1. Clone\n2. Install dependencies" 
+Installation Guide
+1. Prerequisites
+Python 3.8 or higher
+Git
+2. Clone the Repository
+git clone https://github.com/yourusername/molecular-complex-analysis.git
+cd molecular-complex-analysis
