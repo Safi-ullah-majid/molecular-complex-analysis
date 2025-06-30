@@ -32,6 +32,6 @@ A comprehensive Python toolkit for analyzing molecular complexes using FairChem 
 
 ### Quick Install
 ```bash
-git clone https://github.com/yourusername/molecular-complex-analyzer.git
+git clone https://github.com/Safi-ullah-majid/molecular-complex-analyzer.git
 cd molecular-complex-analyzer
 pip install -e .
